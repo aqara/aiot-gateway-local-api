@@ -27,7 +27,7 @@
 | :--- | :--- |
 | V1.0.7 | [绿米网关局域网通讯API V1.0.7](https://cdn.cnbj2.fds.api.mi-img.com/lumiaiot/common/gateway/绿米网关局域网通信协议V1.0.7_2017.05.25_01.doc) |
 | v1.0.8 | [https://cdn.cnbj2.fds.api.mi-img.com/lumiaiot/common/gateway/%E7%BB%BF%E7%B1%B3%E7%BD%91%E5%85%B3%E5%B1%80%E5%9F%9F%E7%BD%91%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AEV1.0.8\_2017.06.29.doc](https://cdn.cnbj2.fds.api.mi-img.com/lumiaiot/common/gateway/绿米网关局域网通信协议V1.0.8_2017.06.29.doc "绿米网关局域网通讯API V1.0.8") |
-| v1.0.9 | [https://cnbj2.fds.api.xiaomi.com/lumiaiot/common/gateway/%E7%BB%BF%E7%B1%B3%E7%BD%91%E5%85%B3%E5%B1%80%E5%9F%9F%E7%BD%91%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AEV1.0.9\_2017.08.01.doc](https://cnbj2.fds.api.xiaomi.com/lumiaiot/common/gateway/%E7%BB%BF%E7%B1%B3%E7%BD%91%E5%85%B3%E5%B1%80%E5%9F%9F%E7%BD%91%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AEV1.0.9_2017.08.01.doc) |
+| v1.0.9 | [https://cnbj2.fds.api.xiaomi.com/lumiaiot/common/gateway/%E7%BB%BF%E7%B1%B3%E7%BD%91%E5%85%B3%E5%B1%80%E5%9F%9F%E7%BD%91%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AEV1.0.9\_2017.08.01.doc](https://cnbj2.fds.api.xiaomi.com/lumiaiot/common/gateway/绿米网关局域网通信协议V1.0.9_2017.08.01.doc) |
 
 ## 代码下载
 
@@ -35,5 +35,5 @@
 | :--- | :--- |
 | 绿米网关局域网通讯示例代码（C语言） | [https://cdn.cnbj2.fds.api.mi-img.com/lumiaiot/common/gateway/lumi\_proto\_demo\_c.zip](https://cdn.cnbj2.fds.api.mi-img.com/lumiaiot/common/gateway/lumi_proto_demo_c.zip "lumi\_proto\_demo\_c.zip") |
 
-
+当前版本：0.01
 
